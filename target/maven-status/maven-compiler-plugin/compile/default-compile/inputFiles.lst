@@ -1,0 +1,17 @@
+/Users/_jan_codes_/Desktop/projectSpringBoot/mini-project/src/main/java/com/makara/mini/project/request/BrandRequest.java
+/Users/_jan_codes_/Desktop/projectSpringBoot/mini-project/src/main/java/com/makara/mini/project/exception/ErrorResponse.java
+/Users/_jan_codes_/Desktop/projectSpringBoot/mini-project/src/main/java/com/makara/mini/project/response/BrandResponse.java
+/Users/_jan_codes_/Desktop/projectSpringBoot/mini-project/src/main/java/com/makara/mini/project/repository/BrandReposiory.java
+/Users/_jan_codes_/Desktop/projectSpringBoot/mini-project/src/main/java/com/makara/mini/project/controller/BrandController.java
+/Users/_jan_codes_/Desktop/projectSpringBoot/mini-project/src/main/java/com/makara/mini/project/controller/TestController.java
+/Users/_jan_codes_/Desktop/projectSpringBoot/mini-project/src/main/java/com/makara/mini/project/entity/Brand.java
+/Users/_jan_codes_/Desktop/projectSpringBoot/mini-project/src/main/java/com/makara/mini/project/exception/GlobalExceptionHandler.java
+/Users/_jan_codes_/Desktop/projectSpringBoot/mini-project/src/main/java/com/makara/mini/project/MiniProjectApplication.java
+/Users/_jan_codes_/Desktop/projectSpringBoot/mini-project/src/main/java/com/makara/mini/project/service/impl/BrandServiceImpl.java
+/Users/_jan_codes_/Desktop/projectSpringBoot/mini-project/src/main/java/com/makara/mini/project/exception/GlobalExceptionHandlerValidate.java
+/Users/_jan_codes_/Desktop/projectSpringBoot/mini-project/src/main/java/com/makara/mini/project/dto/BrandDTO.java
+/Users/_jan_codes_/Desktop/projectSpringBoot/mini-project/src/main/java/com/makara/mini/project/service/BrandService.java
+/Users/_jan_codes_/Desktop/projectSpringBoot/mini-project/src/main/java/com/makara/mini/project/exception/ResourceNotFoundException.java
+/Users/_jan_codes_/Desktop/projectSpringBoot/mini-project/src/main/java/com/makara/mini/project/exception/ApiExecption.java
+/Users/_jan_codes_/Desktop/projectSpringBoot/mini-project/src/main/java/com/makara/mini/project/mapper/ItemBrandMapper.java
+/Users/_jan_codes_/Desktop/projectSpringBoot/mini-project/src/main/java/com/makara/mini/project/mapper/BrandMaper.java
